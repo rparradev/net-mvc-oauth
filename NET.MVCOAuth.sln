@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.MVCOAuth", "NET.MVCOAuth\NET.MVCOAuth.csproj", "{A25D50EA-6C84-43FD-88BA-4039478D3A2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.MVCOAuth", "NET.MVCOAuth\NET.MVCOAuth.csproj", "{29D54A05-A096-40A1-8E32-13E819DBEBED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A25D50EA-6C84-43FD-88BA-4039478D3A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A25D50EA-6C84-43FD-88BA-4039478D3A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A25D50EA-6C84-43FD-88BA-4039478D3A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A25D50EA-6C84-43FD-88BA-4039478D3A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D54A05-A096-40A1-8E32-13E819DBEBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D54A05-A096-40A1-8E32-13E819DBEBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D54A05-A096-40A1-8E32-13E819DBEBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D54A05-A096-40A1-8E32-13E819DBEBED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {384CE8EA-35A8-4754-BF25-8DBD2D311765}
+		SolutionGuid = {0231FF6B-5939-46CA-BB32-8E984A2DE02E}
 	EndGlobalSection
 EndGlobal
